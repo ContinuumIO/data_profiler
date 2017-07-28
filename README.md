@@ -49,7 +49,7 @@ and the installation can be tested with:
 
 ## Documentation
 
-Documentation is located [here](LINK_TO_DOCS).
+Documentation is located [here](http://data-profiler.readthedocs.io/en/latest/profiling.html).
 
 ### Building Documentation
 
